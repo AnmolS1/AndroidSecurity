@@ -1,0 +1,647 @@
+[
+    {
+        "_id": "com.wachanga.womancalendar",
+        "app_name": "Clover - Safe Period Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.wachanga.womancalendar",
+        "downloadable_link": "https://apkpure.com/clover-safe-period-tracker/com.wachanga.womancalendar",
+        "num_download_range": "1M+",
+        "dev_email": "team@wachanga.com",
+        "privacy_policy": {
+            "data_shared": {
+                "Location": "Approximate location",
+                "Personal info": "Other info",
+                "Health and fitness": [
+                    "Health info",
+                    "Fitness info"
+                ],
+                "App activity": [
+                    "App interactions",
+                    "Other user-generated content",
+                    "Other actions"
+                ],
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "data_collected": {
+                "Location": "Approximate location",
+                "Personal info": "Other info",
+                "Health and fitness": [
+                    "Health info",
+                    "Fitness info"
+                ],
+                "App activity": [
+                    "App interactions",
+                    "Other user-generated content",
+                    "Other actions"
+                ],
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.clue.android",
+        "app_name": "Clue - Period & Cycle Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.clue.android",
+        "downloadable_link": "https://apkpure.com/clue-period-cycle-tracker/com.clue.android",
+        "num_download_range": "10M+",
+        "dev_email": "support@helloclue.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {
+                "Location": "Approximate location",
+                "Personal info": [
+                    "Name",
+                    "Email address",
+                    "User IDs",
+                    "Other info"
+                ],
+                "Health and fitness": "Health info",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.lbrc.PeriodCalendar",
+        "app_name": "My Calendar - Period Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.lbrc.PeriodCalendar",
+        "downloadable_link": "https://apkpure.com/my-calendar-period-tracker/com.lbrc.PeriodCalendar",
+        "num_download_range": "10M+",
+        "dev_email": "feedback@period-tracker.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {
+                "Personal info": [
+                    "Name",
+                    "Email address",
+                    "User IDs"
+                ],
+                "Health and fitness": "Health info",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "periodtracker.pregnancy.ovulationtracker",
+        "app_name": "Ovulation & Period Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=periodtracker.pregnancy.ovulationtracker",
+        "downloadable_link": "https://apkpure.com/ovulation-period-tracker/periodtracker.pregnancy.ovulationtracker",
+        "num_download_range": "10M+",
+        "dev_email": "northpark.android@gmail.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {
+                "Personal info": [
+                    "Name",
+                    "Email address"
+                ],
+                "Health and fitness": "Health info",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.popularapp.periodcalendar",
+        "app_name": "Period Calendar Period Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar",
+        "downloadable_link": "https://apkpure.com/period-calendar-period-tracker/com.popularapp.periodcalendar",
+        "num_download_range": "100M+",
+        "dev_email": "abishkking@gmail.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {
+                "Personal info": [
+                    "Name",
+                    "Email address"
+                ],
+                "Health and fitness": "Health info",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.smsrobot.periodlite",
+        "app_name": "Period Tracker Bloom",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.smsrobot.periodlite",
+        "downloadable_link": "https://apkpure.com/period-tracker-bloom/com.smsrobot.periodlite",
+        "num_download_range": "100K+",
+        "dev_email": "contact@smsrobot.com",
+        "privacy_policy": {
+            "data_shared": {
+                "Personal info": "User IDs",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "data_collected": {
+                "Personal info": "Email address"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.northpark.periodtracker",
+        "app_name": "Period Tracker - My Calendar",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.northpark.periodtracker",
+        "downloadable_link": "https://apkpure.com/period-tracker-my-calendar/com.northpark.periodtracker",
+        "num_download_range": "1M+",
+        "dev_email": "support@arbor.mobi",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {
+                "Personal info": "Email address",
+                "Health and fitness": "Health info",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.cg.android.ptracker",
+        "app_name": "Period Tracker - Sevenlogics",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.cg.android.ptracker",
+        "downloadable_link": "https://apkpure.com/period-tracker/com.cg.android.ptracker",
+        "num_download_range": "100K+",
+        "dev_email": "support@sunflowr.com",
+        "privacy_policy": {}
+    },
+    {
+        "_id": "com.periodapp.period",
+        "app_name": "Period Tracker - Amila",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.periodapp.period",
+        "downloadable_link": "https://apkpure.com/period-tracker/com.periodapp.period",
+        "num_download_range": "1M+",
+        "dev_email": "developers.amila@gmail.com",
+        "privacy_policy": {
+            "data_shared": {
+                "Location": "Approximate location",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or Other IDs"
+            },
+            "data_collected": {
+                "Location": "Approximate location",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or Other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.pg.you",
+        "app_name": "Always You: Period Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.pg.you",
+        "downloadable_link": "https://apkpure.com/always-you-period-tracker/com.pg.you",
+        "num_download_range": "50K+",
+        "dev_email": "alwaysyouapp@gmail.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {
+                "Personal info": [
+                    "Name",
+                    "Email address",
+                    "Other info"
+                ],
+                "Health and fitness": [
+                    "Health info",
+                    "Fitness info"
+                ],
+                "Messages": "Emails",
+                "App activity": [
+                    "App interactions",
+                    "Other actions"
+                ],
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.glow.android.eve",
+        "app_name": "Eve - Period Tracker: Love & Sex",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.glow.android.eve",
+        "downloadable_link": "https://apkpure.com/eve-period-tracker-love-sex/com.glow.android.eve",
+        "num_download_range": "1M+",
+        "dev_email": "info@glowing.com",
+        "privacy_policy": {}
+    },
+    {
+        "_id": "com.ladytimer.ovulationcalendar",
+        "app_name": "Ladytimer - Ovulation Calendar",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.ladytimer.ovulationcalendar",
+        "downloadable_link": "https://apkpure.com/ladytimer-ovulation-calendar/com.ladytimer.ovulationcalendar",
+        "num_download_range": "5M+",
+        "dev_email": "android@ladytimer.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {
+                "Personal info": "Email address",
+                "App info and performance": "Crash logs",
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "in.plackal.lovecyclesfree",
+        "app_name": "Maya - Period Fertitility Ovulation & Pregnancy",
+        "play_store_link": "https://play.google.com/store/apps/details?id=in.plackal.lovecyclesfree",
+        "downloadable_link": "https://apkpure.com/maya-period-fertility-ovulation-pregnancy/in.plackal.lovecyclesfree",
+        "num_download_range": "5M+",
+        "dev_email": "help@maya.live",
+        "privacy_policy": {
+            "data_shared": {
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "data_collected": {
+                "Location": [
+                    "Approximate location",
+                    "Precise location"
+                ],
+                "Personal info": [
+                    "Email address",
+                    "Other info"
+                ],
+                "Health and fitness": "Health info",
+                "Calendar": "Calendar events"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.meetyou.intl",
+        "app_name": "MeetYou - Period Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.meetyou.intl",
+        "downloadable_link": "https://apkpure.com/meetyou-period-tracker/com.meetyou.intl",
+        "num_download_range": "10M+",
+        "dev_email": "meetyou.serve@gmail.com",
+        "privacy_policy": {
+            "data_shared": {
+                "Personal info": "User IDs"
+            },
+            "data_collected": {
+                "Personal info": [
+                    "Email address",
+                    "User IDs"
+                ],
+                "Health and fitness": "Health info",
+                "Messages": "Emails",
+                "App info and performance": "Crash logs",
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.chris.android.mydaysfree",
+        "app_name": "My Days X - Ovulation Calendar & Period Tracking",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.chris.android.mydaysfree",
+        "downloadable_link": "https://apkpure.com/my-days-x-ovulation-calendar-period-tracking/com.chris.android.mydaysfree",
+        "num_download_range": "1M+",
+        "dev_email": "email@mydaysx.club",
+        "privacy_policy": {
+            "data_shared": {
+                "Device or other IDs": "Device or other IDs"
+            },
+            "data_collected": {
+                "Personal info": "Email address",
+                "App activity": [
+                    "App interactions",
+                    "Other actions"
+                ]
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.ovuline.fertility",
+        "app_name": "Ovia Fertility Period Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.ovuline.fertility",
+        "downloadable_link": "https://apkpure.com/ovia-fertility-period-tracker/com.ovuline.fertility",
+        "num_download_range": "1M+",
+        "dev_email": "support@oviahealth.com",
+        "privacy_policy": {
+            "data_shared": {
+                "Health and fitness": "Health info",
+                "Messages": "Other in-app messages",
+                "App activity": "App interactions",
+                "App info and performance": "Diagnostics",
+                "Device or other IDs": "Device or other IDs"
+            },
+            "data_collected": {
+                "Location": [
+                    "Approximate location",
+                    "Precise location"
+                ],
+                "Personal info": [
+                    "Name",
+                    "Email address",
+                    "Race and ethnicity",
+                    "Sexual orientation",
+                    "Other info"
+                ],
+                "Health and fitness": [
+                    "Health info",
+                    "Fitness info"
+                ],
+                "Messages": "Other in-app messages",
+                "Photos and videos": "Photos"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "femia.menstruationtracker.fertilityapp",
+        "app_name": "Ovulation Period & Fertility",
+        "play_store_link": "https://play.google.com/store/apps/details?id=femia.menstruationtracker.fertilityapp",
+        "downloadable_link": "https://apkpure.com/ovulation-period-fertility/femia.menstruationtracker.fertilityapp",
+        "num_download_range": "100K+",
+        "dev_email": "support@femia.io",
+        "privacy_policy": {
+            "data_shared": {
+                "Financial info": "Purchase history",
+                "Device or other IDs": "Device or other IDs"
+            },
+            "data_collected": {
+                "Location": "Approximate location",
+                "Personal info": [
+                    "Name",
+                    "Email address",
+                    "User IDs",
+                    "Other info"
+                ],
+                "Financial info": "Purchase history",
+                "Health and fitness": "Health info",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.smsrobot.period",
+        "app_name": "Period and Ovulation Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.smsrobot.period",
+        "downloadable_link": "https://apkpure.com/period-and-ovulation-tracker/com.smsrobot.period",
+        "num_download_range": "5M+",
+        "dev_email": "contact@smsrobot.com",
+        "privacy_policy": {
+            "data_shared": {
+                "Personal info": "User IDs",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "data_collected": {
+                "Personal info": "Email address"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.wm.period.tracker.daily",
+        "app_name": "Period & Ovulation Cycle Tracker",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.wm.period.tracker.daily",
+        "downloadable_link": "https://apkpure.com/period-ovulation-cycle-tracker/com.wm.period.tracker.daily",
+        "num_download_range": "10K+",
+        "dev_email": "91580153aa@gmail.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {},
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "period.tracker.calendar.ovulation.women.fertility.cycle",
+        "app_name": "Period tracker calendar ovulation cycle - 2022",
+        "play_store_link": "https://play.google.com/store/apps/details?id=period.tracker.calendar.ovulation.women.fertility.cycle",
+        "downloadable_link": "https://apkpure.com/period-tracker-calendar-ovulation-cycle/period.tracker.calendar.ovulation.women.fertility.cycle",
+        "num_download_range": "1M+",
+        "dev_email": "evaevacorp@gmail.com",
+        "privacy_policy": {
+            "data_shared": {
+                "Location": "Approximate location",
+                "Personal info": [
+                    "User IDs",
+                    "Other info"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "data_collected": {
+                "Personal info": "Name",
+                "Health and fitness": "Health info"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.brc.PeriodTrackerDiary",
+        "app_name": "Period Tracker & Diary",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.brc.PeriodTrackerDiary",
+        "downloadable_link": "https://apkpure.com/period-tracker-diary/com.brc.PeriodTrackerDiary",
+        "num_download_range": "1M+",
+        "dev_email": "feedback@menstrual-calendar.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {
+                "Personal info": [
+                    "Name",
+                    "Email address",
+                    "User IDs"
+                ],
+                "Health and fitness": "Health info",
+                "App activity": "App interactions",
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ],
+                "Device or other IDs": "Device or other IDs"
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.go.flo",
+        "app_name": "Period Tracker Petal Period & Ovulation Calendar",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.go.flo",
+        "downloadable_link": "https://apkpure.com/period-tracker-petal-period-ovulation-calendar/com.go.flo",
+        "num_download_range": "1M+",
+        "dev_email": "petaldevteam@gmail.com",
+        "privacy_policy": {}
+    },
+    {
+        "_id": "com.meiqijiacheng.wocute",
+        "app_name": "Wocute - Period Calendar",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.meiqijiacheng.wocute",
+        "downloadable_link": "https://apkpure.com/wocute-period-calendar/com.meiqijiacheng.wocute",
+        "num_download_range": "1M+",
+        "dev_email": "help@wocute.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {
+                "Personal info": [
+                    "Email address",
+                    "Other info"
+                ],
+                "Health and fitness": [
+                    "Health info",
+                    "Fitness info"
+                ],
+                "App info and performance": [
+                    "Crash logs",
+                    "Diagnostics",
+                    "Other app performance data"
+                ]
+            },
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    },
+    {
+        "_id": "com.womanlog",
+        "app_name": "WomanLog - Period Calendar",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.womanlog",
+        "downloadable_link": "https://apkpure.com/womanlog-period-calendar/com.womanlog",
+        "num_download_range": "10M+",
+        "dev_email": "womanlog@womanlog.com",
+        "privacy_policy": {
+            "data_shared": {},
+            "data_collected": {},
+            "security_practices": [
+                "Data is encrypted in transit",
+                "You can request that data be deleted"
+            ]
+        }
+    }
+]
